@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":  "cadu-RuGh.aternos.me:59933",
+    "ip":  "cadu-RuGh.aternos.me",
     "port": 59933,
     "version": "1.21.11",
     "try-creative": false
