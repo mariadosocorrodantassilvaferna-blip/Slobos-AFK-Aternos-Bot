@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cadu-RuGh.exaroton.me:19123",
-    "port": 19123,
+    "ip": "cadu-RuGh.aternos.me:59933",
+    "port": 59933,
     "version": "1.21.1",
     "try-creative": false
   },
