@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cusk.aternos.host:59933",
+    "ip": "cadu-RuGh.aternos.me:59933
+    ",
     "port": 59933,
     "version": "1.21.1",
     "try-creative": false
